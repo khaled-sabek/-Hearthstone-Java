@@ -1,2 +1,2 @@
-# -Hearthstone-Java
+# Hearthstone-Java
  Hearthstone Game Java Implementation
