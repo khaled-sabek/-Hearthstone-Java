@@ -1,6 +1,9 @@
-![Hearthstone-Java Gameplay](finalcompressed.gif)
 
 # Hearthstone-Java
+
+<p align="center">
+<img src="finalcompressed.gif" alt="Alt Text" width="500" height="300">
+</p>
 
 Hearthstone-Java is a Java implementation of the popular digital collectible card game Hearthstone. The game is built using the Java Swing library and features an intuitive user interface.
 
