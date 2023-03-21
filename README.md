@@ -35,7 +35,7 @@ To get started with Hearthstone-Java, follow these steps:
 
 ### Running the Game
 
-To run the game, open the `src/main/java/com/hearthsim/hearthstone/Hearthstone.java` file in Eclipse and run it as a Java application.
+To run the game, open the `src/simpleGUI/Windows/HelloWindow.java` file in Eclipse and run it as a Java application.
 
 ### Playing the Game
 
